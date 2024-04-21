@@ -1,0 +1,14 @@
+title: Ricardo Ruales - Software Engineer  # You can add your name here
+
+logo: profile.png # Use a relative path to logo image 
+
+description: Backend, DevOps and Cloud. # Fix hyphenation 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: jruales99@gmail.com # Allow visitors to contact you
