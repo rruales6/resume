@@ -51,12 +51,12 @@ client satisfaction about 10%.
 
 
 ## Education & Certifications
-**Computer Science BSc**              | UTE  | 2021
+**Computer Science BSc**                | UTE  | 2021
 
-**Docker Kubernetes Cloud**            | MITO CODE  | 2023
+**Docker Kubernetes Cloud**             | MITO CODE  | 2023
 
-**Designing and implementing Microsoft
- DevOps Solutions** | Microsoft Partner  | 2023
+**Designing and implementing Microsoft**
+**DevOps Solutions**                    | Microsoft Partner  | 2023
 
 **OWASP TOP 10 2021**                   | Greenetics  | 2024
 
