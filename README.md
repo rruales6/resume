@@ -50,6 +50,7 @@ client satisfaction about 10%.
 
 
 ## Education & Certifications
+
 **Computer Science BSc**                | UTE  | 2021
 
 **Docker Kubernetes Cloud**             | MITO CODE  | 2023
