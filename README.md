@@ -1,4 +1,4 @@
-# Your Name
+# Ricardo Ruales
 
 Software Engineer | Resume: [rruales6.github.io](https://yourportfolio.github.io)
 
