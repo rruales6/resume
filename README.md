@@ -1,4 +1,4 @@
-# Ricardo Ruales
+Ricardo Ruales - Software Engineer
 
 Software Engineer | Resume: [rruales6.github.io](https://yourportfolio.github.io)
 
